@@ -1,0 +1,213 @@
+# Requisitos TR 5.3 — Escolar e gestão
+
+**Edital:** PE 77/2026 Laguna/SC · Anexo I
+**Cobertura documental:** **100%** dos 196 itens OCR abaixo.
+**PoC:** ≥85% demonstráveis; ≤15% em ≤30 dias.
+**Matriz mestre:** `tmp/edital-ocr/MATRIZ-REQUISITOS-TR.md`
+
+## 5.3 — Escolar e gestão (196 itens)
+
+### Checklist 100%
+
+- [ ] **5.3.1** — Cadastro de calendários de anos letivos, aplicáveis à totalidade da rede de ensino ou a
+- [ ] **5.3.2** — Permitir o registro de amparos aos alunos (junto ao histórico, notas parciais e/ou do
+- [ ] **5.3.3** — Cadastro de atestados de faltas do aluno, especificando período (data inicial e final),
+- [ ] **5.3.4** — Cadastro de bases curriculares, acessível a todas as escolas da rede municipal ou somente
+- [ ] **5.3.5** — Cadastro de competências da base curricular, permitindo a avaliação de objetivos
+- [ ] **5.3.6** — Cadastro de objetivos, vinculados a base, representando itens do planejamento de aula a
+- [ ] **5.3.7** — Permitir a parametrização da forma de avaliação, sem codificação (script, programação
+- [ ] **5.3.8** — Ainda, na forma de avaliação, deve ser possível configurar termos (descrições) específicos
+- [ ] **5.3.9** — Cadastro de situações de entrada (novo ou repetente), matrícula (nova ou renovada) e
+- [ ] **5.3.10** — Cadastro de notas obtido na realização de provas do ensino supletivo, com a situação e
+- [ ] **5.3.12** — Cadastro de faltas dos alunos (chamada), com suas respectivas disciplinas, datas, e
+- [ ] **5.3.13** — Cadastro de habilidades por componente, permitindo atribuir um conceito conforme
+- [ ] **5.3.14** — Cadastro das atividades realizadas pelo professor em seu período de planejamento; e
+- [ ] **5.3.15** — Cadastro de ocorrências, contendo informações sobre o redator, relator, infrator e data.
+- [ ] **5.3.16** — Cadastro de desdobramento das ocorrências, pontuando as providências e ações
+- [ ] **5.3.17** — Permitir que o Secretário de escola não consiga criar turmas no decorrer do ano
+- [ ] **5.3.180** — registro de notas ao longo do período letivo deve permitir a aplicação de exames de
+- [ ] **5.3.190** — planejamento deve exibir o seu texto completo (incluindo todas as metas/objetivos
+- [ ] **5.3.20** — Cadastro de aprendizagens, definindo conceitos individuais aos alunos, nas
+- [ ] **5.3.21** — Cadastro de ajudante da turma, definindo os alunos que fazem acompanhamento
+- [ ] **5.3.22** — Cadastro de histórico com a situação do aluno e das disciplinas. As notas podem ser do
+- [ ] **5.3.23** — Cadastro de matrícula dos alunos, apresentando a situação de entrada, de matrícula e
+- [ ] **5.3.24** — Cadastro de notas, conceitos e pareceres para componentes definidas na base da
+- [ ] **5.3.25** — Cadastro de solicitação de servidores, permitindo à escola registrar demanda por
+- [ ] **5.3.26** — Cadastro de turmas da escola, com sua identificação, série/etapa, base curricular,
+- [ ] **5.3.27** — Cadastro de informações dos alunos com: endereço, geolocalização,
+- [ ] **5.3.28** — Cadastro de valores de mensalidades por aluno a serem pagos pela compra de
+- [ ] **5.3.29** — Emissão da relação de notas (ou notas parciais) alteradas em determinado período,
+- [ ] **5.3.30** — Emissão de acesso dos pais, com dados para possibilitar o login no sistema; e
+- [ ] **5.3.31** — Emissão de alunos com alergias e alunos com deficiência; e emissão de alunos portadores
+- [ ] **5.3.32** — Emissão de alunas em período de gestação; e emissão de alunos com nome social;
+- [ ] **5.3.33** — Emissão de alunos em situação de acolhimento e o local onde se encontram;
+- [ ] **5.3.34** — Emissão de relatório de alunos que fazem uso do transporte; e emissão de relatório
+- [ ] **5.3.35** — Emissão das atas: de entrega de boletins, resultado final, alunos reprovados,
+- [ ] **5.3.36** — Emissão de alunos com atividades domiciliar; e emissão de relatório de atividades
+- [ ] **5.3.37** — Emissão dos planejamentos do professor, exibindo o período, situação (em
+- [ ] **5.3.38** — Emissão do acompanhamento do diário, listando o número de alunos, a
+- [ ] **5.3.39** — Emissão das avaliações por componentes, em cada avaliação, demonstrando o
+- [ ] **5.3.40** — Emissão das atividades de apoio pedagógicos realizados pelos ajudantes e
+- [ ] **5.3.41** — Emissão de ocorrências registradas com os alunos da escola;
+- [ ] **5.3.42** — Emissão do plano curricular, estimando em percentual por turma, quanto o
+- [ ] **5.3.43** — Emissão de distorção de idade, filtrando por ano letivo, o ensino e as séries iniciais
+- [ ] **5.3.44** — Emissão de medidas de uniformes: camisa, casaco, calça e calçado;
+- [ ] **5.3.45** — Emissão de relatórios consolidados de recebimento de uniformes, discriminando
+- [ ] **5.3.46** — Emissão de relatório quantitativo de alunos com deficiência, listando o número de
+- [ ] **5.3.47** — Emissão de relatório do movimento de alunos, listando: o nome do aluno, a turma,
+- [ ] **5.3.48** — Emissão de boletim estatístico por escola ou da rede municipal, contendo:
+- [ ] **5.3.49** — Emissão de relatório da quantidade de alunos novos em determinado ano letivo,
+- [ ] **5.3.50** — Emissão de panorama por série, listando a quantidade de turmas, quantidade de
+- [ ] **5.3.51** — Emissão de relatório da quantidade de alunos com agrupamentos diversos, constando
+- [ ] **5.3.52** — Permitir a emissão de relatório de quantitativo de vagas, apresentando por
+- [ ] **5.3.53** — Emissão da frequência por período listando o nome do aluno, a turma e a
+- [ ] **5.3.54** — Emissão de infrequência dos alunos, listando seu nome e o período que tiveram
+- [ ] **5.3.55** — Emissão da frequência por dia da semana, agrupada por estabelecimento e
+- [ ] **5.3.56** — Emissão de relatório de horário das turmas, contendo as turmas, as disciplinas, os
+- [ ] **5.3.57** — Emissão de relatório de ficha de matrícula, com os dados do aluno, filiação,
+- [ ] **5.3.58** — Emissão de matrículas não realizadas em relação ao ano letivo anterior;
+- [ ] **5.3.59** — Emissão de relatório de alunos das turmas por disciplinas, listando as notas e faltas
+- [ ] **5.3.60** — Emissão alunos com as notas dos períodos e o objetivo para aprovação (nota a ser
+- [ ] **5.3.61** — Emissão de relatório de alunos por turma, listando as notas das provas parciais e
+- [ ] **5.3.62** — Emissão relatório de alunos por turma, listando o aluno e sua foto (opcional) e para
+- [ ] **5.3.63** — Emissão de relatórios diversos de professores, como para: aniversários;
+- [ ] **5.3.64** — Emissão de relatórios diversos de alunos por turma, como: com situação; pais,
+- [ ] **5.3.65** — Emissão de relatório de pendências dos alunos da turma, exibindo as componentes
+- [ ] **5.3.66** — Emissão de relatório de autorizados a buscar, listando os alunos e as pessoas
+- [ ] **5.3.67** — Emissão de relatório de alunos por turma, que liste a idade, o peso, a altura e o IMC
+- [ ] **5.3.68** — Emissão de alunos das turmas avançado, podendo escolher uma ou mais turmas,
+- [ ] **5.3.69** — Emissão de transferências por escola, listando o nome do aluno, a data e o
+- [ ] **5.3.70** — Emissão de eventos do ano letivo, exibidos em um calendário mensal, detalhados
+- [ ] **5.3.71** — Emissão das salas da escola, com sua área e densidade planejada, assim como o
+- [ ] **5.3.72** — Emissão de relatório mensal de Controle de Custos referente à compra de vagas
+- [ ] **5.3.73** — Emissão de gráfico de alunos abaixo da média, listando a quantidade de alunos
+- [ ] **5.3.74** — Emissão de gráfico de aproveitamento (aprovados x reprovados) da rede municipal
+- [ ] **5.3.75** — Emissão de gráfico de aproveitamento por ensino, detalhado por série. Deve exibir
+- [ ] **5.3.76** — Emissão de gráfico de aproveitamento comparativo entre anos letivos da mesma
+- [ ] **5.3.77** — Emissão de gráfico de aproveitamento, por série, detalhado por disciplina. Deve
+- [ ] **5.3.78** — Emissão de gráfico de aproveitamento, por série, com comparativo entre turmas,
+- [ ] **5.3.79** — Emissão de gráfico de aproveitamento parcial, considerando notas parciais ou
+- [ ] **5.3.80** — Emissão de gráfico de aproveitamento por disciplina exibindo um comparativo
+- [ ] **5.3.81** — Emissão de gráfico comparativo de turmas e componentes abaixo da média (ou um valor
+- [ ] **5.3.82** — Emissão de gráfico de médias dos componentes dos alunos por ano, exceto
+- [ ] **5.3.83** — Emissão de gráfico de médias e faltas, filtrando por turma e avaliação, listando para
+- [ ] **5.3.84** — Emissão de atestados de: comparecimento, escolaridade, frequência, matrícula,
+- [ ] **5.3.85** — Emissão da ata de resultados finais, marcando a possibilidade de imprimir a
+- [ ] **5.3.86** — Emissão de históricos escolares e/ou certificados de conclusão. No mesmo
+- [ ] **5.3.87** — Possibilidade de assinatura eletrônica em documentos, tais como atestados,
+- [ ] **5.3.88** — Calcular a situação do período letivo para disciplina (s) de uma grade,
+- [ ] **5.3.89** — Permitir para inicializar o ano letivo, a partir de outro ano, com as turmas (inclusive
+- [ ] **5.3.90** — Permitir a transferência de aluno solicitante, registrando a situação e emissão dos
+- [ ] **5.3.91** — Permitir gerar as situações e médias finais (cálculo da média; o resultado deve aparecer
+- [ ] **5.3.92** — Permitir enturmar os alunos a partir das matrículas do ano anterior e das pré-
+- [ ] **5.3.93** — Permitir a junção de evidências, compondo um parecer descritivo para revisão do
+- [ ] **5.3.94** — Permitir que a escola somente matricule alunos da fila de espera, previamente
+- [ ] **5.3.95** — Permitir atribuir a turmas de atividade complementar de alunos de qualquer outra
+- [ ] **5.3.96** — Permitir fazer a matrícula simplificada, atribuindo uma ou mais turmas ao aluno
+- [ ] **5.3.97** — Permitir moderar as ocorrências antes de estarem (ou não) disponíveis aos pais;
+- [ ] **5.3.98** — Permitir o registro de alunos exclusivamente quando encaminhados via pedido de
+- [ ] **5.3.99** — Permitir, especialmente aos Coordenadores, marcar os planejamentos como
+- [ ] **5.3.100** — Permitir a rematrícula de alunos recusados nas transferências para a escola de
+- [ ] **5.3.101** — Permitir o remanejo de alunos entre as turmas, considerando a troca de turma ou
+- [ ] **5.3.102** — Permitir a rematrícula, em uma única tela, de um ou mais filhos, podendo
+- [ ] **5.3.103** — Permitir reverter uma transferência de alunos, por motivos diversos;
+- [ ] **5.3.104** — Permitir a revisão do parecer descritivo de forma unificada de todas as
+- [ ] **5.3.105** — Permitir atendimento de solicitações exclusivamente para turno integral;
+- [ ] **5.3.106** — Permitir a transferência de alunos entre escolas da rede municipal, sendo que este
+- [ ] **5.3.107** — Consultar atividade de apoio ao estudante, exibindo os seus atendimentos pelo
+- [ ] **5.3.108** — Consultar atividades do professor, exibindo: escola, turma, nome, quantidade de
+- [ ] **5.3.109** — Consulta relativa ao encerramento do diário, indicando a situação percentual de
+- [ ] **5.3.N0** — Consulta da situação relativa ao fechamento do ano letivo de toda a rede, exibindo:
+- [ ] **5.3.?MConsulta** — para identificação e gerenciamento de possíveis duplicidades cadastrais de
+- [ ] **5.3.112** — Consulta de alunos de AEE/AC, exibindo o estabelecimento, a turma AEE/AC, o
+- [ ] **5.3.116** — Permitir o bloqueio de visualização de notas aos responsáveis;
+- [ ] **5.3.19** — Permitir aprovação por parecer descritivo, sendo que a mesma identifique o aluno
+- [ ] **5.3.120** — Permitir avaliações (nota, conceito, parecer) distintas para cada período de
+- [ ] **5.3.121** — Exibir (ou não), conforme configuração, alunos com determinada situação
+- [ ] **5.3.122** — Permitir aprovação condicional como forma complementar de avaliação.
+- [ ] **5.3.123** — Permitir que ao encerrar o diário do professor, sejam consolidadas as faltas do
+- [ ] **5.3.124** — Permitir conforme configurado, registro do diário de aula pelo professor, mesmo
+- [ ] **5.3.125** — Permitir, quando for o caso, descontar o divisor para o cálculo da nota do aluno
+- [ ] **5.3.126** — Permitir que ao marcar a situação aprovado por conselho a um aluno o sistema
+- [ ] **5.3.127** — Permitir a realização da chamada do aluno, e para cada período de tempo e/ou
+- [ ] **5.3.128** — Permitir a exigência (ou não) da identificação do turno parcial da matrícula do
+- [ ] **5.3.129** — Permitir que seja configurada a possibilidade de continuidade de uma matrícula
+- [ ] **5.3.130** — Restringir o atendimento de vagas (educação infantil) encaminhadas e pedidos
+- [ ] **5.3.131** — Restringir as transferências após um determinado prazo;
+- [ ] **5.3.132** — Permitir ao usuário definir quais modalidade de ensino serão impressas no
+- [ ] **5.3.133** — Restringir a transferência do aluno especialmente para algumas etapas da
+- [ ] **5.3.134** — Permitir configurar, por etapa, a possibilidade de aceite de novas matrículas
+- [ ] **5.3.135** — Permitir para cada etapa, restringir as transferências, viabilizando-as
+- [ ] **5.3.136** — Permitir restringir inclusive transferências internas de alunos quando as mesmas
+- [ ] **5.3.137** — Permitir avançar, matricular ou rematricular os alunos conforme movimentação de
+- [ ] **5.3.138** — Permitir o uso de uma base curricular por mais de uma etapa/série;
+- [ ] **5.3.139** — Permitir, a usuários autorizados, configurar modelos de chamada, boletim, ata e
+- [ ] **5.3.140** — Permitir matrícula de alunos com dependência escolar anterior, permitindo que o
+- [ ] **5.3.141** — Permitir informar e/ou bloquear novos cadastros de pessoa com mesmo nome e
+- [ ] **5.3.142** — Permitir ou não que somente alunos com todos os anos letivos de histórico
+- [ ] **5.3.143** — Permitir reordenar/numerar a turma a qualquer momento;
+- [ ] **5.3.144** — Permitir a qualquer momento a criação de uma nova turma;
+- [ ] **5.3.145** — Permitir aprovação automática para atividade complementar;
+- [ ] **5.3.146** — Permitir o retorno automático de aluno transferido a escola de origem, quando
+- [ ] **5.3.147** — Limitar, conforme configuração (nada fazer, somente avisar, bloquear), a matrícula
+- [ ] **5.3.148** — Permitir o fechamento automático das turmas quando todos alunos estiverem
+- [ ] **5.3.149** — Permitir a matrícula do aluno em um ano letivo por vir, mesmo que o aluno curse
+- [ ] **5.3.150** — Permitir limitar as intenções de escolha de escola na rematrícula bem como
+- [ ] **5.3.151** — Permitir a visualização de parciais anteriores da componente, após transferências;
+- [ ] **5.3.152** — Comunicar o professor quando um aluno transferido retornar à sala;
+- [ ] **5.3.153** — Comunicar o professor quando um aluno for recebido em sua sala oriundo de outra
+- [ ] **5.3.154** — Comunicar o professor quando um aluno for transferido de sua turma;
+- [ ] **5.3.155** — Notificar o professor caso ele tenha planejamento rejeitado;
+- [ ] **5.3.156** — Comunicar o supervisor escolar após um número determinado de dias úteis sem
+- [ ] **5.3.157** — Comunicar escolas credenciadas sobre o não preenchimento de chamada;
+- [ ] **5.3.158** — Comunicar a equipe diretiva sobre alunos com faltas excessivas, considerando um
+- [ ] **5.3.159** — Comunicar diretor sobre o movimento de lotações dos servidores;
+- [ ] **5.3.160** — Permitir que terceiros possam emitir documentos com o nome do secretário titular
+- [ ] **5.3.161** — Permitir a qualquer momento a matrícula retroativa de alunos;
+- [ ] **5.3.162** — Permitir que um mesmo aluno conste mais de uma vez na mesma turma - uma
+- [ ] **5.3.163** — Emitir carteira de estudante para um aluno, ou uma turma, conforme modelos
+- [ ] **5.3.164** — Permitir identificação visual (marca d'água) nas emissões de ata de resultados
+- [ ] **5.3.165** — Permitir anexar ao cadastro de pessoa, várias capturas de imagens (documentos,
+- [ ] **5.3.166** — Permitir armazenar localização do arquivo físico de documentos do aluno;
+- [ ] **5.3.167** — Permitir que os planejamentos de ensino sejam registrados de forma exclusiva por
+- [ ] **5.3.168** — Permitir organizar as atividades extraclasse em blocos (períodos de tempo);
+- [ ] **5.3.169** — Permitir que o registro da chamada (presença, falta, domiciliar, ...), seja regrada por
+- [ ] **5.3.170** — Permitir definir a grade curricular relacionando componentes curriculares
+- [ ] **5.3.172** — Permitir encerrar o diário do professor, concatenando à componente principal, o
+- [ ] **5.3.173** — Definir a quantidade de faltas consecutivas, que determina um aluno ser
+- [ ] **5.3.174** — Permitir o cálculo da frequência proporcional do aluno, especialmente nos anos
+- [ ] **5.3.175** — Permitir processar arquivo com as grades de respostas escaneadas, obtendo as
+- [ ] **5.3.176** — Permitir a correção ou ajuste manual das notas da prova do aluno;
+- [ ] **5.3.177** — Permitir a emissão de grade de questões para aplicação de prova com ao menos o
+- [ ] **5.3.178** — Emissão do desempenho das turmas, identificando os alunos com suas notas e
+- [ ] **5.3.179** — Permitir a exportação das questões das provas;
+- [ ] **5.3.181** — Permitir ser avisado quando existirem protocolos expirados para a escola;
+- [ ] **5.3.182** — Permitir a avaliação diferenciada de alunos PCD, conforme o regramento
+- [ ] **5.3.183** — Permitir a cópia de notas quando o aluno retornar à turma ou à rede, bem como o
+- [ ] **5.3.184** — Permitir o registro individual do aluno de habilidades da BNCC (Federal, Estadual
+- [ ] **5.3.185** — Emissão de relatórios de aprendizagem demonstrando o quantitativo de conceitos
+- [ ] **5.3.186** — Emissão do desempenho do aluno, demonstrando o processo de aprendizagem,
+- [ ] **5.3.187** — Processo para revisão de Parecer Descritivo (PD), permitindo a revisão e edição dos
+- [ ] **5.3.188** — Processo para importação de evidências de aprendizagem em lote, permitindo
+- [ ] **5.3.189** — Registro de programação da turma para alunos AEE, permitindo escolher período
+- [ ] **5.3.191** — Permitir copiar notas do aluno que retorna a rede de ensino ou turma caso o aluno
+- [ ] **5.3.192** — Permitir registro de dados para IMC em lote, podendo cadastrar para toda a turma
+- [ ] **5.3.193** — Permitir o registro e exibição de múltiplos responsáveis legais (filiação direta ou
+- [ ] **5.3.194** — Gerenciar a entrega e o recebimento de uniformes escolares, permitindo a
+- [ ] **5.3.195** — Cadastrar os tipos de avaliações externas aplicadas nas escolas, informando a
+- [ ] **5.3.196** — Possibilitar o vínculo de várias dependências físicas para cada turma.
+- [ ] **5.3.197** — Registro dos horários em que o professor realiza seu planejamento, com validação
+- [ ] **5.3.198** — Permitir gerar várias versões da grade horária, sendo que apenas uma pode estar
+- [ ] **5.3.199** — Configurar o planejamento pedagógico, definindo ano letivo, escopo, modalidade,
+- [ ] **5.3.200** — Cadastrar solicitações de encaminhamento de alunos (matrícula, data, sigilo,
+- [ ] **5.3.201** — Emitir alerta ao coordenador pedagógico quando o professor estiver em atraso
+- [ ] **5.3.202** — Possibilitar a definição da quantidade de alunos, em sala de aula, por metro
+- [ ] **5.3.203** — Possibilitar a visualização das informações da agenda por dia, semana, mês e
+- [ ] **5.3.204** — Possibilitar aos gestores a emissão de relatório de risco de evasão por turma ou
+- [ ] **5.3.205** — Possibilitar aos gestores a emissão de relatório de risco de reprovação por turma
+
+## Regra de rastreio
+
+- Todo item coberto por fase no `ROADMAP.md` e tarefa/grupo no `TODO.md`.
+- `EPIC.md` declara cobertura 100% via este arquivo.
+- Reconciliar IDs com ruído OCR no PDF antes da PoC.

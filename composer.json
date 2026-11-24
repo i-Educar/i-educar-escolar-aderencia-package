@@ -1,0 +1,31 @@
+{
+    "name": "buriti/i-educar-escolar-aderencia-package",
+    "description": "Aderência escolar / gestão (TR 5.3) para o i-Educar 2.12.",
+    "version": "0.1.0",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "keywords": ["ieducar", "buriti", "laguna"],
+    "authors": [{"name": "Buriti"}],
+    "require": {
+        "php": ">=8.3",
+        "illuminate/support": "^11.0|^12.0|^13.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "iEducar\\Packages\\BuritiEscolarAderencia\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "iEducar\\Packages\\BuritiEscolarAderencia\\Providers\\EscolarAderenciaServiceProvider"
+            ]
+        },
+        "ieducar": {
+            "compatible": ["2.12"]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
