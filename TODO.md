@@ -2,6 +2,12 @@
 
 > Pacote: `buriti/i-educar-escolar-aderencia-package` · TR **5.3** · Prioridade **P1**
 
+
+## Onda 1 (finalizada 2026-11-24)
+
+- [x] Matriz PoC / evidências / testes da onda
+- [ ] Ensaio UI roteiro R1 (humano)
+
 ## Backlog Laguna
 
 - [ ] Montar matriz 5.3.x
