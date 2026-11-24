@@ -3,9 +3,6 @@
 namespace iEducar\Packages\BuritiEscolarAderencia\Providers;
 
 use iEducar\Packages\BuritiEscolarAderencia\Console\Onda1EscolarDemoCommand;
-use iEducar\Packages\BuritiEscolarAderencia\Services\FluxoEscolarPoC;
-use iEducar\Packages\BuritiEscolarAderencia\Services\MarcaDagua;
-use iEducar\Packages\BuritiEscolarAderencia\Services\UniformeMedidas;
 use Illuminate\Support\ServiceProvider;
 
 class EscolarAderenciaServiceProvider extends ServiceProvider
@@ -14,9 +11,7 @@ class EscolarAderenciaServiceProvider extends ServiceProvider
 
     public function register(): void
     {
-        $this->app->singleton(MarcaDagua::class);
-        $this->app->singleton(UniformeMedidas::class);
-        $this->app->singleton(FluxoEscolarPoC::class);
+        // Services são value objects — instanciar com `new` nos callers (não bind no container).
     }
 
     public function boot(): void
