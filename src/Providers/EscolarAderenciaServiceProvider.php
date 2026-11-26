@@ -12,12 +12,12 @@ class EscolarAderenciaServiceProvider extends ServiceProvider
     public function register(): void
     {
         // Services são value objects — instanciar com `new` nos callers (não bind no container).
+        // Fora de runningInConsole(): o check do Ambiente Laguna (HTTP) usa Artisan::all().
+        $this->commands([Onda1EscolarDemoCommand::class]);
     }
 
     public function boot(): void
     {
-        if ($this->app->runningInConsole()) {
-            $this->commands([Onda1EscolarDemoCommand::class]);
-        }
+        //
     }
 }
